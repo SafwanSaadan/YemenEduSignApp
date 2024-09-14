@@ -1,0 +1,53 @@
+[
+	{
+	  "title": "جمل",
+	  "image": "assets/images/animals/camel.png",
+	  "imageSign": "assets/images/animals/gif1.gif"
+	},
+	{
+	  "title": "قطة",
+	  "image": "assets/images/animals/cat.png",
+	  "imageSign": "assets/images/animals/gif1.gif"
+	},
+	{
+	  "title": "بقرة",
+	  "image": "assets/images/animals/cow.png",
+	  "imageSign": "assets/images/animals/gif1.gif"
+	},
+	{
+	  "title": "كلب",
+	  "image": "assets/images/animals/dog.png",
+	  "imageSign": "assets/images/animals/gif1.gif"
+	},
+	{
+	  "title": "ثعلب",
+	  "image": "assets/images/animals/fox.png",
+	  "imageSign": "assets/images/animals/gif1.gif"
+	},
+	{
+	  "title": "دجاجة",
+	  "image": "assets/images/animals/hen.png",
+	  "imageSign": "assets/images/animals/gif1.gif"
+	},
+	{
+	  "title": "حصان",
+	  "image": "assets/images/animals/horse.png",
+	  "imageSign": "assets/images/animals/gif1.gif"
+	},
+	{
+	  "title": "أسد",
+	  "image": "assets/images/animals/lion.png",
+	  "imageSign": "assets/images/animals/gif1.gif"
+	},
+	{
+	  "title": "باندا",
+	  "image": "assets/images/animals/panda.png",
+	  "imageSign": "assets/images/animals/gif1.gif"
+	},
+	{
+	  "title": "خروف",
+	  "image": "assets/images/animals/sheep.png",
+	  "imageSign": "assets/images/animals/gif1.gif"
+	}
+  ]
+  

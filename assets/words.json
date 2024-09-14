@@ -1,0 +1,93 @@
+[
+    {
+      "word_id": 1,
+      "word_name": "أ",
+      "word_voice": "ألف",
+      "image_static": "assets/images/animals/2.webp",
+      "image_animated": "assets/images/animals/2.webp"
+    },
+    {
+      "word_id": 2,
+      "word_name": "ب",
+      "word_voice": "باء",
+      "image_static": "assets/images/animals/2.webp",
+      "image_animated": "assets/images/animals/2.webp"
+    },
+    {
+      "word_id": 3,
+      "word_name": "ت",
+      "word_voice": "تاء",
+      "image_static": "assets/images/animals/2.webp",
+      "image_animated": "assets/images/animals/2.webp"
+    },
+    {
+      "word_id": 4,
+      "word_name": "جمل",
+      "word_voice": "جمل",
+      "image_static": "assets/images/animals/camel.png",
+      "image_animated": "assets/images/animals/2.webp"
+    },
+    {
+      "word_id": 5,
+      "word_name": "قطة",
+      "word_voice": "قطة",
+      "image_static": "assets/images/animals/cat.png",
+      "image_animated": "assets/images/animals/2.webp"
+    },
+    {
+      "word_id": 6,
+      "word_name": "بقرة",
+      "word_voice": "بقرة",
+      "image_static": "assets/images/animals/cow.png",
+      "image_animated": "assets/images/animals/2.webp"
+    },
+    {
+      "word_id": 7,
+      "word_name": "كلب",
+      "word_voice": "كلب",
+      "image_static": "assets/images/animals/dog.png",
+      "image_animated": "assets/images/animals/2.webp"
+    },
+    {
+      "word_id": 8,
+      "word_name": "ثعلب",
+      "word_voice": "ثعلب",
+      "image_static": "assets/images/animals/fox.png",
+      "image_animated": "assets/images/animals/2.webp"
+    },
+    {
+      "word_id": 9,
+      "word_name": "دجاجة",
+      "word_voice": "دجاجة",
+      "image_static": "assets/images/animals/hen.png",
+      "image_animated": "assets/images/animals/2.webp"
+    },
+    {
+      "word_id": 10,
+      "word_name": "حصان",
+      "word_voice": "حصان",
+      "image_static": "assets/images/animals/horse.png",
+      "image_animated": "assets/images/animals/2.webp"
+    },
+    {
+      "word_id": 11,
+      "word_name": "أسد",
+      "word_voice": "أسد",
+      "image_static": "assets/images/animals/lion.png",
+      "image_animated": "assets/images/animals/2.webp"
+    },
+    {
+      "word_id": 12,
+      "word_name": "باندا",
+      "word_voice": "باندا",
+      "image_static": "assets/images/animals/panda.png",
+      "image_animated": "assets/images/animals/2.webp"
+    },
+    {
+      "word_id": 13,
+      "word_name": "خروف",
+      "word_voice": "خروف",
+      "image_static": "assets/images/animals/sheep.png",
+      "image_animated": "assets/images/animals/2.webp"
+    }
+]
