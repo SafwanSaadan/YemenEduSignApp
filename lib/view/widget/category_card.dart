@@ -1,10 +1,8 @@
 // ignore_for_file: must_be_immutable
 
 import 'package:flutter/material.dart';
-import 'package:get/get.dart';
 
 import '../../core/constant/AppColor.dart';
-import '../../core/constant/AppRoutes.dart';
 import '../../core/constant/constants.dart';
 import '../../data/model/category_model.dart';
 

@@ -15,35 +15,35 @@
             "word_name": "أ",
             "word_voice": "ألف",
             "image_static": "assets/images/animals/cat.png",
-            "image_animated": "assets/images/animals/cat.png"
+            "image_animated": "assets/images/animals/2.webp"
           },
           {
             "word_id": 2,
             "word_name": "ب",
             "word_voice": "باء",
-            "image_static": "images/baa_static.png",
-            "image_animated": "images/baa_animated.gif"
+            "image_static": "assets/images/animals/cat.png",
+            "image_animated": "assets/images/animals/2.webp"
           },
           {
             "word_id": 3,
             "word_name": "ت",
             "word_voice": "تاء",
-            "image_static": "images/taa_static.png",
-            "image_animated": "images/taa_animated.gif"
+            "image_static": "assets/images/animals/cat.png",
+            "image_animated": "assets/images/animals/2.webp"
           },
           {
             "word_id": 4,
             "word_name": "ث",
             "word_voice": "ثاء",
-            "image_static": "images/thaa_static.png",
-            "image_animated": "images/thaa_animated.gif"
+            "image_static": "assets/images/animals/cat.png",
+            "image_animated": "assets/images/animals/2.webp"
           },
           {
             "word_id": 5,
             "word_name": "ج",
             "word_voice": "جيم",
-            "image_static": "images/jeem_static.png",
-            "image_animated": "images/jeem_animated.gif"
+            "image_static": "assets/images/animals/cat.png",
+            "image_animated": "assets/images/animals/2.webp"
           }
         ]
       }
@@ -64,36 +64,36 @@
             "word_id": 1,
             "word_name": "1",
             "word_voice": "واحد",
-            "image_static": "images/one_static.png",
-            "image_animated": "images/one_animated.gif"
+            "image_static": "assets/images/animals/cat.png",
+            "image_animated": "assets/images/animals/2.webp"
           },
           {
             "word_id": 2,
             "word_name": "2",
             "word_voice": "اثنان",
-            "image_static": "images/two_static.png",
-            "image_animated": "images/two_animated.gif"
+            "image_static": "assets/images/animals/cat.png",
+            "image_animated": "assets/images/animals/2.webp"
           },
           {
             "word_id": 3,
             "word_name": "3",
             "word_voice": "ثلاثة",
-            "image_static": "images/three_static.png",
-            "image_animated": "images/three_animated.gif"
+            "image_static": "assets/images/animals/cat.png",
+            "image_animated": "assets/images/animals/2.webp"
           },
           {
             "word_id": 4,
             "word_name": "4",
             "word_voice": "أربعة",
-            "image_static": "images/four_static.png",
-            "image_animated": "images/four_animated.gif"
+            "image_static": "assets/images/animals/cat.png",
+            "image_animated": "assets/images/animals/2.webp"
           },
           {
             "word_id": 5,
             "word_name": "5",
             "word_voice": "خمسة",
-            "image_static": "images/five_static.png",
-            "image_animated": "images/five_animated.gif"
+            "image_static": "assets/images/animals/cat.png",
+            "image_animated": "assets/images/animals/2.webp"
           }
         ]
       }
@@ -103,91 +103,90 @@
     "category_id": 3,
     "category_name": "الألوان",
     "image": "assets/images/animals/cat.png",
-    "lesson_image": "assets/images/animals/cat.png",
     "lessons": [
       {
         "lesson_id": 1,
         "lesson_name": "الدرس الأول",
-        "image": "assets/images/animals/cat.png",
+        "lesson_image": "assets/images/animals/cat.png",
         "lesson_description": "أحمر، أخضر، أصفر، أزرق، أسود",
         "words": [
           {
             "word_id": 1,
             "word_name": "أحمر",
             "word_voice": "أحمر",
-            "image_static": "images/red_static.png",
-            "image_animated": "images/red_animated.gif"
+            "image_static": "assets/images/animals/cat.png",
+            "image_animated": "assets/images/animals/2.webp"
           },
           {
             "word_id": 2,
             "word_name": "أخضر",
             "word_voice": "أخضر",
-            "image_static": "images/green_static.png",
-            "image_animated": "images/green_animated.gif"
+            "image_static": "assets/images/animals/cat.png",
+            "image_animated": "assets/images/animals/2.webp"
           },
           {
             "word_id": 3,
             "word_name": "أصفر",
             "word_voice": "أصفر",
-            "image_static": "images/yellow_static.png",
-            "image_animated": "images/yellow_animated.gif"
+            "image_static": "assets/images/animals/cat.png",
+            "image_animated": "assets/images/animals/2.webp"
           },
           {
             "word_id": 4,
             "word_name": "أزرق",
             "word_voice": "أزرق",
-            "image_static": "images/blue_static.png",
-            "image_animated": "images/blue_animated.gif"
+            "image_static": "assets/images/animals/cat.png",
+            "image_animated": "assets/images/animals/2.webp"
           },
           {
             "word_id": 5,
             "word_name": "أسود",
             "word_voice": "أسود",
-            "image_static": "images/black_static.png",
-            "image_animated": "images/black_animated.gif"
+            "image_static": "assets/images/animals/cat.png",
+            "image_animated": "assets/images/animals/2.webp"
           }
         ]
       },
       {
         "lesson_id": 2,
         "lesson_name": "الدرس الثاني",
-        "image": "assets/images/animals/cat.png",
+        "lesson_image": "assets/images/animals/cat.png",
         "lesson_description": "أحمر، أخضر، أصفر، أزرق، أسود",
         "words": [
           {
             "word_id": 1,
             "word_name": "أحمر",
             "word_voice": "أحمر",
-            "image_static": "images/red_static.png",
-            "image_animated": "images/red_animated.gif"
+            "image_static": "assets/images/animals/cat.png",
+            "image_animated": "assets/images/animals/2.webp"
           },
           {
             "word_id": 2,
             "word_name": "أخضر",
             "word_voice": "أخضر",
-            "image_static": "images/green_static.png",
-            "image_animated": "images/green_animated.gif"
+            "image_static": "assets/images/animals/cat.png",
+            "image_animated": "assets/images/animals/2.webp"
           },
           {
             "word_id": 3,
             "word_name": "أصفر",
             "word_voice": "أصفر",
-            "image_static": "images/yellow_static.png",
-            "image_animated": "images/yellow_animated.gif"
+            "image_static": "assets/images/animals/cat.png",
+            "image_animated": "assets/images/animals/2.webp"
           },
           {
             "word_id": 4,
             "word_name": "أزرق",
             "word_voice": "أزرق",
-            "image_static": "images/blue_static.png",
-            "image_animated": "images/blue_animated.gif"
+            "image_static": "assets/images/animals/cat.png",
+            "image_animated": "assets/images/animals/2.webp"
           },
           {
             "word_id": 5,
             "word_name": "أسود",
             "word_voice": "أسود",
-            "image_static": "images/black_static.png",
-            "image_animated": "images/black_animated.gif"
+            "image_static": "assets/images/animals/cat.png",
+            "image_animated": "assets/images/animals/2.webp"
           }
         ]
       }

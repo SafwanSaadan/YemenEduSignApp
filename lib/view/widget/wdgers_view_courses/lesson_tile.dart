@@ -1,3 +1,4 @@
+import 'package:YemenEduSign/core/constant/AppColor.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 
@@ -16,8 +17,8 @@ class LessonTile extends StatelessWidget {
   Widget build(BuildContext context) {
     return InkWell(
       onTap: () {
-        // توجيه المستخدم إلى صفحة الدرس
-        // Get.toNamed(AppRoutes.lessonDetail, arguments: lesson);
+        // توجيه المستخدم إلى صفحة محتوى الدرس وتمرير بيانات الدرس
+        Get.toNamed(AppRoutes.lessonDetail, arguments: lesson);
       },
       child: Card(
         elevation: 8.0,
@@ -81,10 +82,11 @@ class LessonTile extends StatelessWidget {
             ),
             subtitle: Text(
               lesson.lessonDescription,
-              style: TextStyle(
-                color: Colors.grey[600],
-                fontSize: 14.0,
-              ),
+              style: Theme.of(context)
+                  .textTheme
+                  .labelSmall!
+                  .copyWith(color: AppColor.grey),
+              maxLines: 3,
             ),
           ),
         ),

@@ -35,11 +35,11 @@ class CategoryTile extends StatelessWidget {
           ),
           child: ListTile(
             contentPadding: const EdgeInsets.all(16.0),
-            leading: category.image!.isNotEmpty
+            leading: category.image.isNotEmpty
                 ? ClipRRect(
                     borderRadius: BorderRadius.circular(10.0),
                     child: Image.asset(
-                      category.image!,
+                      category.image,
                       width: 80,
                       height: 80,
                       fit: BoxFit.cover,
@@ -59,14 +59,14 @@ class CategoryTile extends StatelessWidget {
                     ),
                   ),
             title: Text(
-              category.categoryName!,
+              category.categoryName,
               style: const TextStyle(
                 fontSize: 18.0,
                 fontWeight: FontWeight.bold,
               ),
             ),
             subtitle: Text(
-              "${category.lessons!.length} دروس",
+              "${category.lessons.length} دروس",
               style: TextStyle(
                 color: Colors.grey[600],
                 fontSize: 14.0,

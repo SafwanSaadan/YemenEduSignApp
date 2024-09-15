@@ -2,6 +2,7 @@ import 'package:get/get.dart';
 
 import 'controller/middleware/OnBoardingMiddleware.dart';
 import 'core/constant/AppRoutes.dart';
+import 'view/screens/Category/LessonDetail_Screen.dart';
 import 'view/screens/Category/Lesson_Screen.dart';
 import 'view/screens/Category/category_Screen.dart';
 import 'view/screens/Game/Calculation_game_Screen.dart';
@@ -27,4 +28,5 @@ List<GetPage<dynamic>>? getPages = [
   GetPage(name: AppRoutes.search, page: () => const SearchScreen()),
   GetPage(name: AppRoutes.categories, page: () => const CategoryScreen()),
   GetPage(name: AppRoutes.lessons, page: () => const LessonScreen()),
+  GetPage(name: AppRoutes.lessonDetail, page: () => LessonDetailScreen()),
 ];
