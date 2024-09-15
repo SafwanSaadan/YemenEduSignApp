@@ -44,6 +44,7 @@ dependencies:
   speech_to_text: ^6.6.2
   gif: ^2.3.0
   curved_navigation_bar: ^1.0.6
+  rename: ^3.0.2
   # tflite_flutter: ^0.9.0
   # tflite_flutter_helper: ^0.3.0
 
@@ -57,6 +58,25 @@ dev_dependencies:
   # package. See that file for information about deactivating specific lint
   # rules and activating additional ones.
   flutter_lints: ^4.0.0
+  flutter_launcher_icons: "^0.13.1"
+
+flutter_launcher_icons:
+  android: "yemenedusign_logo"
+  ios: true
+  image_path: "assets/yemenedusign_logo.png"
+  min_sdk_android: 21 # android min sdk min:16, default 21
+  web:
+    generate: true
+    image_path: "assets/yemenedusign_logo.png"
+    background_color: "#hexcode"
+    theme_color: "#hexcode"
+  windows:
+    generate: true
+    image_path: "assets/yemenedusign_logo.png"
+    icon_size: 48 # min:48, max:256, default: 48
+  macos:
+    generate: true
+    image_path: "assets/yemenedusign_logo.png"
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
