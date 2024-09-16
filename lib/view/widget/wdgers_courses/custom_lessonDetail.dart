@@ -6,9 +6,9 @@ import 'package:flutter_tts/flutter_tts.dart';
 import 'package:get/get.dart';
 import 'package:gif/gif.dart';
 
-import '../../../controller/CourseController.dart';
+import '../../../controller/courses/CourseController.dart';
 import '../../../core/constant/AppColor.dart';
-import '../../../data/model/WordsModel.dart';
+import '../../../data/model/courses/WordsModel.dart';
 
 class CustomLessonDetail extends StatefulWidget {
   final List<WordModel> words;

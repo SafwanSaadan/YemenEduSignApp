@@ -4,7 +4,7 @@ import 'package:flutter/material.dart';
 
 import 'package:get/get.dart';
 
-import '../../../controller/DragDropController.dart';
+import '../../../controller/Games/DragDropController.dart';
 import '../../../core/constant/AppColor.dart';
 
 class ButtonCalculationGame extends StatefulWidget {

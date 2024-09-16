@@ -2,14 +2,14 @@ import 'package:get/get.dart';
 
 import 'controller/middleware/OnBoardingMiddleware.dart';
 import 'core/constant/AppRoutes.dart';
-import 'view/screens/Category/LessonDetail_Screen.dart';
-import 'view/screens/Category/Lesson_Screen.dart';
-import 'view/screens/Category/category_Screen.dart';
+import 'view/screens/courses/LessonDetail_Screen.dart';
+import 'view/screens/courses/Lesson_Screen.dart';
+import 'view/screens/courses/category_Screen.dart';
 import 'view/screens/Game/Calculation_game_Screen.dart';
 import 'view/screens/Game/DragDropGame_Screen.dart';
 import 'view/screens/Game/Memory_Game_Screen.dart';
 import 'view/screens/Search_Screen.dart';
-import 'view/screens/games_Screen.dart';
+import 'view/screens/Game/games_Screen.dart';
 import 'view/screens/onBoarding_Screen.dart';
 
 // Map<String, Widget Function(BuildContext)> routes = {

@@ -9,7 +9,7 @@ import '../../controller/FloatingController.dart';
 import '../../controller/SearchController.dart';
 
 import '../../data/datasource/bg_data.dart';
-import '../widget/custom_card_search.dart';
+import '../widget/widgets_search/custom_card_search.dart';
 
 class SearchScreen extends StatefulWidget {
   const SearchScreen({super.key});

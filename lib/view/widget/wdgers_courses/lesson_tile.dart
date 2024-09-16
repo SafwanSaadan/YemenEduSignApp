@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 
 import '../../../core/constant/AppRoutes.dart';
-import '../../../data/model/LessonModel.dart';
+import '../../../data/model/courses/LessonModel.dart';
 
 class LessonTile extends StatelessWidget {
   final LessonModel lesson;

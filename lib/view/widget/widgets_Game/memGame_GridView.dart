@@ -5,9 +5,9 @@ import 'dart:math';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 
-import '../../../controller/MemoryGameController.dart';
+import '../../../controller/Games/MemoryGameController.dart';
 import '../../../core/constant/AppColor.dart';
-import '../ResultMessage.dart';
+import 'ResultMessage.dart';
 
 class MemGameGrideView extends StatefulWidget {
   final List<dynamic> jsonData;

@@ -1,5 +1,4 @@
-{ 
-  "question_bank": [
+[
     {
       "category_id": 1,
       "category_name": "الحروف",
@@ -14,30 +13,23 @@
                 "question_id": 1,
                 "correct_answer": "أ",
                 "word_voice": "ألف",
-                "image_static": "images/alef_static.png",
-                "image_animated": "images/alef_animated.gif"
+                "image_static": "assets/images/animals/cat.png",
+                "image_animated": "assets/images/animals/2.webp"
               },
               "options": [
                 {
                   "option_id": 1,
                   "word_name": "أ",
                   "word_voice": "ألف",
-                  "image_static": "images/alef_static.png",
-                  "image_animated": "images/alef_animated.gif"
+                  "image_static": "assets/images/animals/cat.png",
+                  "image_animated": "assets/images/animals/2.webp"
                 },
                 {
                   "option_id": 2,
                   "word_name": "ب",
                   "word_voice": "باء",
-                  "image_static": "images/baa_static.png",
-                  "image_animated": "images/baa_animated.gif"
-                },
-                {
-                  "option_id": 3,
-                  "word_name": "ت",
-                  "word_voice": "تاء",
-                  "image_static": "images/taa_static.png",
-                  "image_animated": "images/taa_animated.gif"
+                  "image_static": "assets/images/animals/2.webp",
+                  "image_animated": "assets/images/animals/2.webp"
                 }
               ]
             },
@@ -45,32 +37,103 @@
               "exercise_id": 2,
               "question": {
                 "question_id": 2,
+                "correct_answer": "أ",
+                "word_voice": "ألف",
+                "image_static": "assets/images/animals/cat.png",
+                "image_animated": "assets/images/animals/2.webp"
+              },
+              "options": [
+                {
+                  "option_id": 1,
+                  "word_name": "أ",
+                  "word_voice": "ألف",
+                  "image_static": "assets/images/animals/cat.png",
+                  "image_animated": "assets/images/animals/2.webp"
+                },
+                {
+                  "option_id": 2,
+                  "word_name": "ب",
+                  "word_voice": "باء",
+                  "image_static": "assets/images/animals/2.webp",
+                  "image_animated": "assets/images/animals/2.webp"
+                }
+              ]
+            },
+            {
+              "exercise_id": 3,
+              "question": {
+                "question_id": 3,
+                "correct_answer": "أ",
+                "word_voice": "ألف",
+                "image_static": "assets/images/animals/cat.png",
+                "image_animated": "assets/images/animals/2.webp"
+              },
+              "options": [
+                {
+                  "option_id": 1,
+                  "word_name": "أ",
+                  "word_voice": "ألف",
+                  "image_static": "assets/images/animals/cat.png",
+                  "image_animated": "assets/images/animals/2.webp"
+                },
+                {
+                  "option_id": 2,
+                  "word_name": "ب",
+                  "word_voice": "باء",
+                  "image_static": "assets/images/animals/2.webp",
+                  "image_animated": "assets/images/animals/2.webp"
+                }
+              ]
+            },
+            {
+              "exercise_id": 4,
+              "question": {
+                "question_id": 4,
+                "correct_answer": "أ",
+                "word_voice": "ألف",
+                "image_static": "assets/images/animals/cat.png",
+                "image_animated": "assets/images/animals/2.webp"
+              },
+              "options": [
+                {
+                  "option_id": 1,
+                  "word_name": "أ",
+                  "word_voice": "ألف",
+                  "image_static": "assets/images/animals/cat.png",
+                  "image_animated": "assets/images/animals/2.webp"
+                },
+                {
+                  "option_id": 2,
+                  "word_name": "ب",
+                  "word_voice": "باء",
+                  "image_static": "assets/images/animals/2.webp",
+                  "image_animated": "assets/images/animals/2.webp"
+                }
+              ]
+            },
+            {
+              "exercise_id": 5,
+              "question": {
+                "question_id": 5,
                 "correct_answer": "ب",
                 "word_voice": "باء",
-                "image_static": "images/baa_static.png",
-                "image_animated": "images/baa_animated.gif"
+                "image_static": "assets/images/animals/cat.png",
+                "image_animated": "assets/images/animals/2.webp"
               },
               "options": [
                 {
                   "option_id": 1,
                   "word_name": "ج",
                   "word_voice": "جيم",
-                  "image_static": "images/jeem_static.png",
-                  "image_animated": "images/jeem_animated.gif"
+                  "image_static": "assets/images/animals/2.webp",
+                  "image_animated": "assets/images/animals/2.webp"
                 },
                 {
                   "option_id": 2,
                   "word_name": "ب",
                   "word_voice": "باء",
-                  "image_static": "images/baa_static.png",
-                  "image_animated": "images/baa_animated.gif"
-                },
-                {
-                  "option_id": 3,
-                  "word_name": "ث",
-                  "word_voice": "ثاء",
-                  "image_static": "images/thaa_static.png",
-                  "image_animated": "images/thaa_animated.gif"
+                  "image_static": "assets/images/animals/cat.png",
+                  "image_animated": "assets/images/animals/2.webp"
                 }
               ]
             }
@@ -78,34 +141,43 @@
           "lesson_exam": {
             "exam_id": 1,
             "exam_name": "اختبار الدرس الأول",
+            "image": "assets/images/animals/cat.png",
             "questions": [
               {
                 "question_id": 1,
                 "correct_answer": "أ",
                 "word_voice": "ألف",
-                "image_static": "images/alef_static.png",
-                "image_animated": "images/alef_animated.gif",
+                "image_static": "assets/images/animals/cat.png",
+                "image_animated": "assets/images/animals/2.webp",
                 "options": [
                   {
-                    "option_id": 1,
+                    "word_id": 1,
                     "word_name": "أ",
                     "word_voice": "ألف",
-                    "image_static": "images/alef_static.png",
-                    "image_animated": "images/alef_animated.gif"
+                    "image_static": "assets/images/animals/cat.png",
+                    "image_animated": "assets/images/animals/2.webp"
                   },
                   {
-                    "option_id": 2,
+                    "word_id": 2,
                     "word_name": "ب",
                     "word_voice": "باء",
-                    "image_static": "images/baa_static.png",
-                    "image_animated": "images/baa_animated.gif"
+                    "image_static": "assets/images/animals/2.webp",
+                    "image_animated": "assets/images/animals/2.webp"
+                  }
+                  ,
+                  {
+                    "word_id": 3,
+                    "word_name": "ب",
+                    "word_voice": "باء",
+                    "image_static": "assets/images/animals/2.webp",
+                    "image_animated": "assets/images/animals/2.webp"
                   },
                   {
-                    "option_id": 3,
-                    "word_name": "ت",
-                    "word_voice": "تاء",
-                    "image_static": "images/taa_static.png",
-                    "image_animated": "images/taa_animated.gif"
+                    "word_id": 4,
+                    "word_name": "ب",
+                    "word_voice": "باء",
+                    "image_static": "assets/images/animals/2.webp",
+                    "image_animated": "assets/images/animals/2.webp"
                   }
                 ]
               },
@@ -113,29 +185,36 @@
                 "question_id": 2,
                 "correct_answer": "ب",
                 "word_voice": "باء",
-                "image_static": "images/baa_static.png",
-                "image_animated": "images/baa_animated.gif",
+                "image_static": "assets/images/animals/cat.png",
+                "image_animated": "assets/images/animals/2.webp",
                 "options": [
                   {
-                    "option_id": 1,
-                    "word_name": "ج",
-                    "word_voice": "جيم",
-                    "image_static": "images/jeem_static.png",
-                    "image_animated": "images/jeem_animated.gif"
+                    "word_id": 1,
+                    "word_name": "أ",
+                    "word_voice": "ألف",
+                    "image_static": "assets/images/animals/2.webp",
+                    "image_animated": "assets/images/animals/2.webp"
                   },
                   {
-                    "option_id": 2,
+                    "word_id": 2,
+                    "word_name": "أ",
+                    "word_voice": "ألف",
+                    "image_static": "assets/images/animals/2.webp",
+                    "image_animated": "assets/images/animals/2.webp"
+                  },
+                  {
+                    "word_id": 3,
+                    "word_name": "أ",
+                    "word_voice": "ألف",
+                    "image_static": "assets/images/animals/2.webp",
+                    "image_animated": "assets/images/animals/2.webp"
+                  },
+                  {
+                    "word_id": 4,
                     "word_name": "ب",
                     "word_voice": "باء",
-                    "image_static": "images/baa_static.png",
-                    "image_animated": "images/baa_animated.gif"
-                  },
-                  {
-                    "option_id": 3,
-                    "word_name": "ث",
-                    "word_voice": "ثاء",
-                    "image_static": "images/thaa_static.png",
-                    "image_animated": "images/thaa_animated.gif"
+                    "image_static": "assets/images/animals/cat.png",
+                    "image_animated": "assets/images/animals/2.webp"
                   }
                 ]
               },
@@ -143,29 +222,36 @@
                 "question_id": 3,
                 "correct_answer": "ج",
                 "word_voice": "جيم",
-                "image_static": "images/jeem_static.png",
-                "image_animated": "images/jeem_animated.gif",
+                "image_static": "assets/images/animals/cat.png",
+                "image_animated": "assets/images/animals/2.webp",
                 "options": [
                   {
                     "option_id": 1,
                     "word_name": "ج",
                     "word_voice": "جيم",
-                    "image_static": "images/jeem_static.png",
-                    "image_animated": "images/jeem_animated.gif"
+                    "image_static": "assets/images/animals/cat.png",
+                    "image_animated": "assets/images/animals/2.webp"
                   },
                   {
-                    "option_id": 2,
-                    "word_name": "ح",
-                    "word_voice": "حاء",
-                    "image_static": "images/haa_static.png",
-                    "image_animated": "images/haa_animated.gif"
+                    "word_id": 2,
+                    "word_name": "ب",
+                    "word_voice": "باء",
+                    "image_static": "assets/images/animals/2.webp",
+                    "image_animated": "assets/images/animals/2.webp"
                   },
                   {
-                    "option_id": 3,
-                    "word_name": "خ",
-                    "word_voice": "خاء",
-                    "image_static": "images/khaa_static.png",
-                    "image_animated": "images/khaa_animated.gif"
+                    "word_id": 3,
+                    "word_name": "ب",
+                    "word_voice": "باء",
+                    "image_static": "assets/images/animals/2.webp",
+                    "image_animated": "assets/images/animals/2.webp"
+                  },
+                  {
+                    "word_id": 4,
+                    "word_name": "ب",
+                    "word_voice": "باء",
+                    "image_static": "assets/images/animals/2.webp",
+                    "image_animated": "assets/images/animals/2.webp"
                   }
                 ]
               }
@@ -175,35 +261,43 @@
       ],
       "category_final_exam": {
         "exam_id": 2,
-        "exam_name": "اختبار الفئة",
+        "exam_name": "اختبار فئة الحروف",
+        "image": "assets/images/animals/cat.png",
         "questions": [
           {
             "question_id": 1,
             "correct_answer": "أ",
             "word_voice": "ألف",
-            "image_static": "images/alef_static.png",
-            "image_animated": "images/alef_animated.gif",
+            "image_static": "assets/images/animals/cat.png",
+            "image_animated": "assets/images/animals/2.webp",
             "options": [
               {
                 "option_id": 1,
                 "word_name": "أ",
                 "word_voice": "ألف",
-                "image_static": "images/alef_static.png",
-                "image_animated": "images/alef_animated.gif"
+                "image_static": "assets/images/animals/cat.png",
+                "image_animated": "assets/images/animals/2.webp"
               },
               {
                 "option_id": 2,
                 "word_name": "ب",
                 "word_voice": "باء",
-                "image_static": "images/baa_static.png",
-                "image_animated": "images/baa_animated.gif"
+                "image_static": "assets/images/animals/cat.png",
+                "image_animated": "assets/images/animals/2.webp"
               },
               {
                 "option_id": 3,
                 "word_name": "ت",
                 "word_voice": "تاء",
-                "image_static": "images/taa_static.png",
-                "image_animated": "images/taa_animated.gif"
+                "image_static": "assets/images/animals/cat.png",
+                "image_animated": "assets/images/animals/cat.png"
+              },
+              {
+                "option_id": 4,
+                "word_name": "ت",
+                "word_voice": "تاء",
+                "image_static": "assets/images/animals/cat.png",
+                "image_animated": "assets/images/animals/cat.png"
               }
             ]
           },
@@ -211,29 +305,36 @@
             "question_id": 2,
             "correct_answer": "ب",
             "word_voice": "باء",
-            "image_static": "images/baa_static.png",
-            "image_animated": "images/baa_animated.gif",
+            "image_static": "assets/images/animals/2.webp",
+            "image_animated": "assets/images/animals/2.webp",
             "options": [
               {
                 "option_id": 1,
                 "word_name": "ج",
                 "word_voice": "جيم",
-                "image_static": "images/jeem_static.png",
-                "image_animated": "images/jeem_animated.gif"
+                "image_static": "assets/images/animals/cat.png",
+                "image_animated": "assets/images/animals/2.webp"
               },
               {
                 "option_id": 2,
                 "word_name": "ب",
                 "word_voice": "باء",
-                "image_static": "images/baa_static.png",
-                "image_animated": "images/baa_animated.gif"
+                "image_static": "assets/images/animals/2.webp",
+                "image_animated": "assets/images/animals/2.webp"
               },
               {
                 "option_id": 3,
                 "word_name": "ث",
                 "word_voice": "ثاء",
-                "image_static": "images/thaa_static.png",
-                "image_animated": "images/thaa_animated.gif"
+                "image_static": "assets/images/animals/cat.png",
+                "image_animated": "assets/images/animals/2.webp"
+              },
+              {
+                "option_id": 4,
+                "word_name": "ث",
+                "word_voice": "ثاء",
+                "image_static": "assets/images/animals/cat.png",
+                "image_animated": "assets/images/animals/2.webp"
               }
             ]
           },
@@ -241,37 +342,40 @@
             "question_id": 3,
             "correct_answer": "ج",
             "word_voice": "جيم",
-            "image_static": "images/jeem_static.png",
-            "image_animated": "images/jeem_animated.gif",
+            "image_static": "assets/images/animals/cat.png",
+            "image_animated": "assets/images/animals/2.webp",
             "options": [
               {
                 "option_id": 1,
                 "word_name": "ج",
                 "word_voice": "جيم",
-                "image_static": "images/jeem_static.png",
-                "image_animated": "images/jeem_animated.gif"
+                "image_static": "assets/images/animals/cat.png",
+                "image_animated": "assets/images/animals/2.webp"
               },
               {
                 "option_id": 2,
                 "word_name": "ح",
                 "word_voice": "حاء",
-                "image_static": "images/haa_static.png",
-                "image_animated": "images/haa_animated.gif"
+                "image_static": "assets/images/animals/cat.png",
+                "image_animated": "assets/images/animals/2.webp"
               },
               {
                 "option_id": 3,
                 "word_name": "خ",
                 "word_voice": "خاء",
-                "image_static": "images/khaa_static.png",
-                "image_animated": "images/khaa_animated.gif"
+                "image_static": "assets/images/animals/cat.png",
+                "image_animated": "assets/images/animals/2.webp"
+              },
+              {
+                "option_id": 4,
+                "word_name": "خ",
+                "word_voice": "خاء",
+                "image_static": "assets/images/animals/cat.png",
+                "image_animated": "assets/images/animals/2.webp"
               }
             ]
           }
         ]
       }
-    },
-    {
-      
     }
-  ]
-}
+]

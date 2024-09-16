@@ -8,12 +8,12 @@ import 'package:get/get.dart';
 import 'package:gif/gif.dart';
 
 import '../../../controller/FloatingController.dart';
-import '../../../controller/MemoryGameController.dart';
+import '../../../controller/Games/MemoryGameController.dart';
 import '../../../core/constant/AppColor.dart';
 import '../../../data/datasource/bg_data.dart';
-import '../../../data/model/MemoryGame_model.dart';
-import '../../widget/Game/ScoreBoard_MGame.dart';
-import '../../widget/Game/memGame_GridView.dart';
+import '../../../data/model/Games/MemoryGame_model.dart';
+import '../../widget/widgets_Game/ScoreBoard_MGame.dart';
+import '../../widget/widgets_Game/memGame_GridView.dart';
 
 class MemoryGameScreen extends StatefulWidget {
   const MemoryGameScreen({super.key});

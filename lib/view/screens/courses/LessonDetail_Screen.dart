@@ -4,8 +4,8 @@ import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import '../../../controller/FloatingController.dart';
 import '../../../data/datasource/bg_data.dart';
-import '../../../data/model/LessonModel.dart';
-import '../../widget/wdgers_view_courses/custom_lessonDetail.dart';
+import '../../../data/model/courses/LessonModel.dart';
+import '../../widget/wdgers_courses/custom_lessonDetail.dart';
 
 class LessonDetailScreen extends StatelessWidget {
   LessonDetailScreen({super.key});

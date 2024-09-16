@@ -1,11 +1,11 @@
 {
-    "name": "game_learn",
-    "short_name": "game_learn",
+    "name": "YemenEduSign",
+    "short_name": "YemenEduSign",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#hexcode",
     "theme_color": "#hexcode",
-    "description": "A new Flutter project.",
+    "description": "Mobile Application to learn Yemen Sign language.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [

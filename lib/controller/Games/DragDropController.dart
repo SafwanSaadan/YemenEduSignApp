@@ -2,8 +2,8 @@
 
 import 'package:get/get.dart';
 
-import '../data/datasource/static/items_DragDrop_list.dart';
-import '../data/model/DragDrop_model.dart';
+import '../../data/datasource/static/items_DragDrop_list.dart';
+import '../../data/model/Games/DragDrop_model.dart';
 
 class DragDropController extends GetxController {
   var score = 0.obs;

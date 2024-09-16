@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_tts/flutter_tts.dart';
 import 'package:gif/gif.dart';
 
-import '../../core/constant/AppColor.dart';
+import '../../../core/constant/AppColor.dart';
 
 class CustomSearchResults extends StatefulWidget {
   const CustomSearchResults({required this.searchResults, super.key});

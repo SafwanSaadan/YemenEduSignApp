@@ -4,9 +4,9 @@ import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 
 import '../../controller/onBoardingController.dart';
-import '../widget/onBoarding/ButtonOnBoarding.dart';
-import '../widget/onBoarding/DotContoller.dart';
-import '../widget/onBoarding/SliderOnBoarding.dart';
+import '../widget/widgets_onBoarding/ButtonOnBoarding.dart';
+import '../widget/widgets_onBoarding/DotContoller.dart';
+import '../widget/widgets_onBoarding/SliderOnBoarding.dart';
 
 class OnBoardingScreen extends StatelessWidget {
   const OnBoardingScreen({super.key});

@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import '../../../data/model/LessonModel.dart';
+import '../../../data/model/courses/LessonModel.dart';
 import 'lesson_tile.dart';
 
 class LessonList extends StatelessWidget {

@@ -5,7 +5,7 @@ import 'package:shared_preferences/shared_preferences.dart';
 
 import 'core/constant/AppThemeData.dart';
 import 'routes.dart';
-import 'view/BottomNavigationBar.dart';
+import 'view/screens/BottomNavigationBar.dart';
 
 late final SharedPreferences? sharedPref;
 

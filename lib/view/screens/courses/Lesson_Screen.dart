@@ -4,8 +4,8 @@ import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import '../../../controller/FloatingController.dart';
 import '../../../data/datasource/bg_data.dart';
-import '../../../data/model/category_model.dart';
-import '../../widget/wdgers_view_courses/lesson_list.dart';
+import '../../../data/model/courses/category_model.dart';
+import '../../widget/wdgers_courses/lesson_list.dart';
 
 class LessonScreen extends StatefulWidget {
   const LessonScreen({super.key});

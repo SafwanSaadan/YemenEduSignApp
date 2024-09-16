@@ -1,12 +1,12 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 
-import '../../controller/FloatingController.dart';
-import '../../core/constant/AppColor.dart';
-import '../../core/constant/AppRoutes.dart';
-import '../../core/constant/constants.dart';
-import '../../data/datasource/bg_data.dart';
-import '../../data/datasource/static/static.dart';
+import '../../../controller/FloatingController.dart';
+import '../../../core/constant/AppColor.dart';
+import '../../../core/constant/AppRoutes.dart';
+import '../../../core/constant/constants.dart';
+import '../../../data/datasource/bg_data.dart';
+import '../../../data/datasource/static/static.dart';
 
 class GamesScreen extends StatelessWidget {
   GamesScreen({super.key});

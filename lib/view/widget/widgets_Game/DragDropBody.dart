@@ -5,10 +5,10 @@ import 'package:flutter/material.dart';
 import 'package:flutter_tts/flutter_tts.dart';
 import 'package:get/get.dart';
 
-import '../../../controller/DragDropController.dart';
+import '../../../controller/Games/DragDropController.dart';
 import '../../../core/constant/AppColor.dart';
 import '../../../core/constant/path/Audio_Path.dart';
-import '../../../data/model/DragDrop_model.dart';
+import '../../../data/model/Games/DragDrop_model.dart';
 
 class DragDropBody extends StatefulWidget {
   const DragDropBody({super.key});

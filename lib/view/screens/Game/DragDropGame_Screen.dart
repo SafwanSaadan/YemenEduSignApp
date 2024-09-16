@@ -6,11 +6,11 @@ import 'package:audioplayers/audioplayers.dart';
 import 'package:flutter_tts/flutter_tts.dart';
 import 'package:get/get.dart';
 
-import '../../../controller/DragDropController.dart';
+import '../../../controller/Games/DragDropController.dart';
 import '../../../controller/FloatingController.dart';
 import '../../../core/constant/path/Audio_Path.dart';
 import '../../../data/datasource/bg_data.dart';
-import '../../widget/Game/DragDropBody.dart';
+import '../../widget/widgets_Game/DragDropBody.dart';
 
 class DragDropGameScreen extends StatefulWidget {
   const DragDropGameScreen({super.key});

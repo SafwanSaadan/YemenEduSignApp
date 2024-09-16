@@ -3,9 +3,9 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import '../../../controller/FloatingController.dart';
-import '../../../controller/categoryController.dart';
+import '../../../controller/courses/categoryController.dart';
 import '../../../data/datasource/bg_data.dart';
-import '../../widget/wdgers_view_courses/category_list.dart';
+import '../../widget/wdgers_courses/category_list.dart';
 
 class CategoryScreen extends StatefulWidget {
   const CategoryScreen({super.key});

@@ -3,10 +3,10 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 
-import '../../controller/FloatingController.dart';
-import '../../core/utils/animations.dart';
-import '../../data/datasource/bg_data.dart';
-import '../../main.dart';
+import '../../../controller/FloatingController.dart';
+import '../../../core/shared/utils/animations.dart';
+import '../../../data/datasource/bg_data.dart';
+import '../../../main.dart';
 
 class FloatingActionButtonLogin extends StatelessWidget {
   FloatingActionButtonLogin({super.key});

@@ -5,12 +5,12 @@ import 'dart:math';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 
-import '../../../controller/DragDropController.dart';
+import '../../../controller/Games/DragDropController.dart';
 import '../../../controller/FloatingController.dart';
 import '../../../core/constant/AppColor.dart';
 import '../../../data/datasource/bg_data.dart';
-import '../../widget/Game/ButtonCalculationGame.dart';
-import '../../widget/ResultMessage.dart';
+import '../../widget/widgets_Game/ButtonCalculationGame.dart';
+import '../../widget/widgets_Game/ResultMessage.dart';
 
 class CalculationGameScreen extends StatefulWidget {
   const CalculationGameScreen({super.key});

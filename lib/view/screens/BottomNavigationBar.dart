@@ -2,11 +2,11 @@
 
 import 'package:flutter/material.dart';
 
-import 'screens/Category/category_Screen.dart';
-import 'screens/games_Screen.dart';
-import 'widget/custom_Bottom_NavigationBar.dart';
-import 'screens/Search_Screen.dart';
-import 'widget/custom_category.dart';
+import 'courses/category_Screen.dart';
+import 'Game/games_Screen.dart';
+import '../widget/custom_Bottom_NavigationBar.dart';
+import 'Search_Screen.dart';
+import '../widget/wdgers_courses/custom_category.dart';
 
 class BottomNavigationBarApp extends StatefulWidget {
   const BottomNavigationBarApp({super.key});

@@ -1,4 +1,4 @@
-import 'package:YemenEduSign/data/model/category_model.dart';
+import 'package:YemenEduSign/data/model/courses/category_model.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 

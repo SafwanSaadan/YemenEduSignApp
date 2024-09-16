@@ -1,7 +1,7 @@
 // ignore_for_file: non_constant_identifier_names, file_names
 
 import '../../../core/constant/path/images_Path.dart';
-import '../../model/DragDrop_model.dart';
+import '../../model/Games/DragDrop_model.dart';
 
 List<DragDropModel> list_items_DragDrop = [
   DragDropModel(value: 'camel', name: 'جمل', image: ImagesPath.camel),

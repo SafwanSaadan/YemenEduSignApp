@@ -2,9 +2,9 @@
 
 import 'package:flutter/material.dart';
 
-import '../../core/constant/AppColor.dart';
-import '../../core/constant/constants.dart';
-import '../../data/model/category_model.dart';
+import '../../../core/constant/AppColor.dart';
+import '../../../core/constant/constants.dart';
+import '../../../data/model/courses/category_model.dart';
 
 class CategoryItem extends StatelessWidget {
   const CategoryItem({required this.category, super.key});

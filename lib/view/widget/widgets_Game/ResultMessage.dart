@@ -4,7 +4,7 @@ import 'package:audioplayers/audioplayers.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_tts/flutter_tts.dart';
 
-import '../../core/constant/path/Audio_Path.dart';
+import '../../../core/constant/path/Audio_Path.dart';
 
 class ResultMessage extends StatefulWidget {
   final String message;

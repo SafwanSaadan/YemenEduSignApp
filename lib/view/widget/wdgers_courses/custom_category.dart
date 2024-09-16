@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 
-import '../../controller/FloatingController.dart';
-import '../../controller/categoryController.dart';
-import '../../core/constant/AppColor.dart';
-import '../../core/constant/constants.dart';
-import '../../data/datasource/bg_data.dart';
+import '../../../controller/FloatingController.dart';
+import '../../../controller/courses/categoryController.dart';
+import '../../../core/constant/AppColor.dart';
+import '../../../core/constant/constants.dart';
+import '../../../data/datasource/bg_data.dart';
 
 class CustomCategory extends StatelessWidget {
   CustomCategory({super.key});

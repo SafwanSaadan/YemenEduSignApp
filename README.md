@@ -1,6 +1,6 @@
-# game_learn
+# YemenEduSign
 
-A new Flutter project.
+Mobile Application to learn Yemen Sign language.
 
 ## Getting Started
 

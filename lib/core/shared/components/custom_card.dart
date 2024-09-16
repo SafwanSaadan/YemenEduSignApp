@@ -3,9 +3,9 @@
 import 'package:audioplayers/audioplayers.dart';
 import 'package:flutter/material.dart';
 
-import '../../core/constant/AppColor.dart';
-import '../../core/constant/constants.dart';
-import '../../data/model/category_model.dart';
+import '../../constant/AppColor.dart';
+import '../../constant/constants.dart';
+import '../../../data/model/courses/category_model.dart';
 
 class CustomCard extends StatefulWidget {
   const CustomCard({required this.category, super.key});

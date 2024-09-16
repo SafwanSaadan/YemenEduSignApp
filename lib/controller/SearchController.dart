@@ -5,7 +5,7 @@ import 'dart:convert';
 import 'package:flutter/services.dart';
 import 'package:get/get.dart';
 
-import '../data/datasource/synonyms.dart';
+import '../data/datasource/search/synonyms.dart';
 
 class SearchControl extends GetxController {
   var searchResults = [].obs;

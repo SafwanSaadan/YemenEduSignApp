@@ -3,7 +3,7 @@
 import 'dart:convert';
 import 'package:flutter/services.dart';
 import 'package:get/get.dart';
-import '../data/model/category_model.dart';
+import '../../data/model/courses/category_model.dart';
 
 class CategoryController extends GetxController {
   List<CategoryModel> categoryData = [];
