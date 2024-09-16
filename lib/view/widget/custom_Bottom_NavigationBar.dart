@@ -47,7 +47,7 @@ class _CustomBottomNavigationBarState extends State<CustomBottomNavigationBar> {
           ],
         ),
       ],
-      height: 50,
+      height: 60,
       onTap: widget.onTap,
       backgroundColor: const Color.fromARGB(53, 0, 109, 181),
       color: const Color.fromARGB(186, 43, 77, 135),
